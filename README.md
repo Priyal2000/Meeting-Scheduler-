@@ -34,7 +34,3 @@ Should be a GET request
 URL should be ‘/meetings?participant=<email id>’
 Must return a an array of meetings in JSON format that have the participant received in the email within the time range
 
-
-
-
-
